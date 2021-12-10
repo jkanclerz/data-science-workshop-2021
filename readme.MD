@@ -4,3 +4,4 @@ This repository contains notebook templates for the purposes of the data science
 
 ## Author
 Jakub Kanclerz [jakub.kanclerz@uek.krakow.pl](jakub.kanclerz@uek.krakow.pl)
+
